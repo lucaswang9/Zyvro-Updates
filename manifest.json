@@ -2,6 +2,6 @@
   "version": "0.4.1",
   "download_url": "https://github.com/lucaswang9/Zyvro-Updates/releases/download/v0.4.1/ZyvroSetup.exe",
   "notes": "YouTube fullscreen works again. Windows uses a stable Qt WebEngine installation layout. Automatic signed update checks now run every two days.",
-  "sha256": "9504ccc6d480961869618bafc2a17b09f44d1ea9854c23b59d75777675ec2cb6",
-  "signature": "UIghlOcmH/BdyHY9mIFfmkfHqbATxCWTQuzLe8SsTJJ4+aufuyfDsn1N/uuSywX2e8HGW/9K7JgRIiaPHJq+Dg=="
+  "sha256": "e5f99d3c4dc77fcab99d09787730f4f9507e5b753bb13d3cdcdebf0cecbfe98f",
+  "signature": "NN7UgP9ugC0NYrNhfFZFbCLdzBUWJH2enooI/JtszjY10SUx0kGgePWlrKoWIl4mW7yPgiLeWMUoynX7DDpbBQ=="
 }
